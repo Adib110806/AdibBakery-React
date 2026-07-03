@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { FiGrid } from 'react-icons/fi'
-import Header from '../components/Header'
+import Header from '../components/header'
 import SlideBanner from '../components/SlideBanner'
 import FlashSale from '../components/FlashSale'
 import SearchBar from '../components/SearchBar'
